@@ -25,18 +25,20 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 ## Começando
 A maneira mais fácil de começar:
 
-1. Instale o **Nodejs** é a primeira tecnologia listada acima.
-2. executa `npm intall` para instalar as dependências do projeto.
+1. Faça o download e instale todas tecnologias e ferramentas utilizadas no projecto
+2. No botão verde **Code**  ou **Codigo** acima, baixe o arquivo **zip**
+2. De seguida extraia o projeto dentro de um directorio nomeado a sua preferência
+2. De seguida executa `npm install` para instalar as dependências do projeto.
 
-## 📕 Ementa do Curso:
+## 📕 O que vai aprender? 👇🏾
 
 > ## Princípios
 
-* Single Responsibility Principle (SRP)
-* Open Closed Principle (OCP)
-* Liskov Substitution Principle (LSP)
-* Interface Segregation Principle (ISP)
-* Dependency Inversion Principle (DIP)
+* **S**ingle Responsibility Principle (SRP)
+* **O**pen Closed Principle (OCP)
+* **L**iskov Substitution Principle (LSP)
+* **I**nterface Segregation Principle (ISP)
+* **D**ependency Inversion Principle (DIP)
 * Separation of Concerns (SOC)
 * Don't Repeat Yourself (DRY)
 * You Aren't Gonna Need It (YAGNI)
@@ -54,7 +56,7 @@ A maneira mais fácil de começar:
 * Conventional Commits
 * Use Cases
 
-> ## Bibliotecas e Ferramentas
+> ## Bibliotecas
 
 * NPM
 * Typescript
@@ -64,8 +66,6 @@ A maneira mais fácil de começar:
 * JsonWebToken
 * Express
 * Eslint
-* Standard Javascript Style
-* Ts-Node-Dev
 
 > ## Features do Node
 
