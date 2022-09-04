@@ -88,7 +88,7 @@ A maneira mais fácil de começar:
 
 > ## Features do Typescript
 
-* POO Avançado
+* POO
 * Interface
 * TypeAlias
 * Namespace
