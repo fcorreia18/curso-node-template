@@ -28,7 +28,7 @@ A maneira mais fácil de começar:
 1. Faça o download e instale todas tecnologias e ferramentas utilizadas no projecto
 2. No botão verde **Code**  ou **Codigo** acima, baixe o arquivo **zip**
 2. De seguida extraia o projeto dentro de um directorio nomeado a sua preferência
-2. De seguida executa `npm install` para instalar as dependências do projeto.
+2. Depois executa `npm install` para instalar as dependências do projeto.
 
 ## 📕 O que vai aprender? 👇🏾
 
