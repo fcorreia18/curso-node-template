@@ -1,11 +1,10 @@
  <img align="left" width="116" height="116" src="https://raw.githubusercontent.com/jasontaylordev/CleanArchitecture/main/.github/icon.png" />
  
- # NodeJs, Typescript, Clean Architecture e SOLID
- # Instrutor: Francisco Correia
+ # Curso: NodeJs, Typescript, Clean Architecture e SOLID | Instrutor: Francisco Correia
  # Hosted By:  Tecno Excelência
 
-[![Discord](https://img.shields.io/discord/893301913662148658?label=Discord)](https://discord.gg/k78CFnjh)
-[![Linkedin](https://www.linkedin.com/in/francisco-correia-2393411a4/?label=Linkedin)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Discord](https://img.shields.io/discord/1015949143040069662?label=Discord)](https://discord.gg/k78CFnjh)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-correia-2393411a4/?label=Linkedin)
 
 
 <br/>
