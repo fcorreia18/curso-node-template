@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "version": "",
+    "name": "node-course",
+    "version": "2",
     "description": "",
     "main": "server.ts",
     "scripts": {
