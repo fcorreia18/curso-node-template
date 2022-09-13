@@ -1,7 +1,7 @@
 {
     "name": "",
     "version": "",
-    "description": "",
+    "description": "testanto rebase",
     "main": "server.ts",
     "scripts": {
         "dev": "ts-node-dev --poll --respawn --inspect --transpile-only --ignore-watch node_modules  src/server.ts",
