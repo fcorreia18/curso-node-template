@@ -1,7 +1,7 @@
 {
     "name": "node-course",
-    "version": "",
-    "description": "another description",
+    "version": "2",
+    "description": "description",
     "main": "server.ts",
     "scripts": {
         "dev": "ts-node-dev --poll --respawn --inspect --transpile-only --ignore-watch node_modules  src/server.ts",
