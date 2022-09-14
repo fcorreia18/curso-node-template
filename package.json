@@ -8,7 +8,7 @@
         "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Francisco-Correia",
     "license": "ISC",
     "dependencies": {
         "bcryptjs": "^2.4.3",
