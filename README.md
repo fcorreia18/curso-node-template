@@ -4,7 +4,7 @@
  # Instrutor: Francisco Correia 
 
 [![Discord](https://img.shields.io/discord/1015949143040069662?label=Discord)](https://discord.gg/k78CFnjh)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-correia-2393411a4/?label=Linkedin)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-correia-2393411a4/?label=Linkedin) 
 
 
 <br/>
